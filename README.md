@@ -22,11 +22,9 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -35,7 +33,6 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
-  <img src="https://img.shields.io/badge/docker-22272D?style=for-the-badge&logo=docker&labelColor=22272D">
   <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
   <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&labelColor=22272D">
   <img src="https://img.shields.io/badge/postman-22272D?style=for-the-badge&logo=postman&labelColor=22272D">
