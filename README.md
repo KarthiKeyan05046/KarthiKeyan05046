@@ -2,10 +2,6 @@
   <img align="left" alt="Lokki's Instagram" width="22px"  src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/karthikeyan05046" target="_blank">
-  <img align="left" alt="Lokki's LinkedIN" width="22px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 <!-- <p align="center">
  
  <img src="https://img.shields.io/github/followers/lokki-r?style=flat-square"/>
