@@ -14,11 +14,7 @@
 
 <br />
 <br>
-Full stack Dev with Strong collaboration skills and proven history of Application Development. Vast experience in User Interfaces, APIs, DB management.
-
-<!-- - 💼 Any freelance work? do reach, [email](mailto:lokki.devprofile@gmail.com) :)
-- 💬 ask me about anything, I am Happy to help :)
- -->
+Full stack Dev with Strong collaboration skills and proven history of Application Development.
 
 <h2 align="center">Technology Stack</h2>
 
@@ -29,7 +25,6 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
@@ -57,24 +52,4 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
   <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
 </div>
 </p>
-
-<br>
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Lokki-R&theme=redical">
-</p> 
-<hr>
-<br />
-<p align="left">
-    <a href="https://lokki-r.dev/">
-        <img width="49.5%"
-            src="https://github-readme-stats.vercel.app/api?username=lokki-r&show_icons=true&theme=nightowl&hide_border=true" />
-        <img width="49.5%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=lokki-r&theme=nightowl&hide_border=true" />
-    </a>
-</p>
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+ 
