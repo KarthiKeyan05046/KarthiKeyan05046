@@ -49,4 +49,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
   <img src="https://img.shields.io/badge/macos-22272D?style=for-the-badge&logo=macos&labelColor=22272D">
 </div>
 </p>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KarthiKeyan05046&theme=dark&show_icons=true&count_private=true)
+
  
