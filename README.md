@@ -10,7 +10,7 @@ I'm a passionate React Native developer with 3.5 years of experience in building
 - 🌱 I’m currently learning advanced React Native techniques and performance optimization.
 - 👯 I’m looking to collaborate on open-source React Native projects.
 - 💬 Ask me about React Native, JavaScript, and mobile app development.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [karthikeyanduraisamy1999@gmail.com](mailto:karthikeyanduraisamy1999@gmail.com)
 - ⚡ Fun fact: I enjoy exploring new technologies and solving complex problems.
 
 <!-- <p align="center">
