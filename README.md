@@ -1,6 +1,17 @@
-<a href="https://www.instagram.com/lokkiiii_/" target="_blank">
-  <img align="left" alt="Lokki's Instagram" width="22px"  src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+# Hi there, I'm KarthiKeyan 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=KarthiKeyan05046)
+
+## About Me
+
+I'm a passionate React Native developer with 3.5 years of experience in building mobile applications. Here are some key points about me:
+
+- 🔭 I’m currently working on enhancing my skills in mobile app development.
+- 🌱 I’m currently learning advanced React Native techniques and performance optimization.
+- 👯 I’m looking to collaborate on open-source React Native projects.
+- 💬 Ask me about React Native, JavaScript, and mobile app development.
+- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- ⚡ Fun fact: I enjoy exploring new technologies and solving complex problems.
 
 <!-- <p align="center">
  
@@ -12,13 +23,8 @@
 
 </p> -->
 
-<br />
-<br>
-Full stack Dev with Strong collaboration skills and proven history of Application Development.
-
-<h2 align="center">Technology Stack</h2>
-
-<p align="center">
+## Technology Stack
+<p align="left">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
@@ -31,7 +37,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <p>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/visual%20studio%20code-22272D?style=for-the-badge&logo=visual-studio-code&logoColor=42A2E9&labelColor=22272D">
   <img src="https://img.shields.io/badge/npm-22272D?style=for-the-badge&logo=npm&labelColor=22272D">
   <img src="https://img.shields.io/badge/PM2-fcfcfc?style=for-the-badge&logo=PM2&labelColor=22272D">
@@ -42,7 +48,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </p>
 
 <p>
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/express%20js-fcfcfc?style=for-the-badge&logo=express&logoColor=fcfcfc&labelColor=22272D">
   <img src="https://img.shields.io/badge/codeigniter-EE4223?style=for-the-badge&logo=codeigniter&logoColor=EE4223&labelColor=22272D">
   <img src="https://img.shields.io/badge/linux-22272D?style=for-the-badge&logo=linux">
@@ -57,5 +63,7 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiKeyan05046&layout=compact&hide_border=true)
+
+
 
  
