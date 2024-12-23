@@ -50,7 +50,11 @@ Full stack Dev with Strong collaboration skills and proven history of Applicatio
 </div>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=KarthiKeyan05046&theme=dark&show_icons=true&count_private=true)
+## GitHub Stats
+
+![KarthiKeyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthiKeyan05046&show_icons=true&hide_border=true)
+
+## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiKeyan05046&layout=compact&hide_border=true)
 
